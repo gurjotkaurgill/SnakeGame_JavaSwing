@@ -20,6 +20,9 @@ A classic Snake game built using Java and Swing.
   - Snake and food rendered with 3D effect using `fill3DRect`
   - Custom game window icon
 
+![image](https://github.com/user-attachments/assets/0659b91f-daf9-44e5-97d8-ec5fc650825c)
+![image](https://github.com/user-attachments/assets/a4d2b929-d9b3-40fd-bc36-4f858e7f8e44)
+
 ## 💡 Programming Concepts Used
 
 - **Object-Oriented Programming (OOP)**:
